@@ -23,15 +23,11 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=liaoyouyue&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=liaoyouyue&show_icons=true&theme=dracula&hide_border=true" alt="Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=liaoyouyue&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" />
+    <img src="https://github-readme-stats.vercel.app/api?username=liaoyouyue&show_icons=true&theme=dracula&hide_border=true&locale=cn" alt="统计" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=liaoyouyue&theme=tokyonight&hide_border=true&layout=compact" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liaoyouyue&theme=dracula&hide_border=true&layout=compact" alt="Languages" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=liaoyouyue&theme=tokyonight&hide_border=true&ring=5264AE&fire=5264AE" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=liaoyouyue&theme=dracula&hide_border=true&ring=5264AE&fire=5264AE" alt="Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=liaoyouyue&theme=tokyonight&hide_border=true&layout=compact&locale=cn" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liaoyouyue&theme=dracula&hide_border=true&layout=compact&locale=cn" alt="语言" />
   </picture>
 </div>
