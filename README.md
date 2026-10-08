@@ -1,8 +1,21 @@
 <div align="center">
 
+<svg width="100%" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#764ba2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#667eea;stop-opacity:1" />
+      <animate attributeName="x1" values="0%;100%;0%" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="100%;200%;100%" dur="3s" repeatCount="indefinite" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="120" fill="url(#grad1)" rx="10"/>
+</svg>
+
 # 👋 Hi, I'm 廖友越
 
-### 🛠️ 捣鼓中...
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=764ba2&center=true&vCenter=true&width=400&lines=捣鼓中...;Building+cool+stuff;TypeScript+Lover;Code+%26+Create" alt="Typing SVG" />
 
 <br>
 
